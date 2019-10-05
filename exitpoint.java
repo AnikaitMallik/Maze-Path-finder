@@ -7,6 +7,7 @@ public class exitpoint {
 		Scanner scn = new Scanner(System.in);
 		int x = scn.nextInt();
 		int y = scn.nextInt();
+		
 		int[][] arr = new int[x][y];
 		for(int j= 0;j<x;j++)
 		for (int i = 0; i < y; i++) {
